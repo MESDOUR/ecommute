@@ -3,6 +3,7 @@
 	"version": "1.0",
 	"dependencies": {
 		"@react-google-maps/api": "^2.20.8",
+		"axios": "^1.16.1",
 		"motion": "^12.38.0",
 		"next": "^16.2.4",
 		"react": "^19.2.5",
